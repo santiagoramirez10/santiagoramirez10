@@ -61,3 +61,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagoramirez10&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoramirez10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/santiagoramirez10)
