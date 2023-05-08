@@ -43,13 +43,13 @@
 <h2>📲🌎Redes sociales y contacto</h2>
 
 <ul>
-    <li><a href="www.linkedin.com/in/santiagoramirezperez">Linkedin</a></li>
+    <li><a href="https://linkedin.com/in/santiagoramirezperez">Linkedin</a></li>
     <li><a href="https://wa.me/573503783575">Whatsapp</a></li>
     <li><a href="https://www.facebook.com/s.ramirezp10">Facebook</a></li>
     <li><a href="https://www.instagram.com/s_ramirezp10/">Instagram</a></li>
     <li><a href="https://twitter.com/s_ramirezp10">Twitter</a></li>
     <li><a href="https://www.tinkercad.com/users/hfk6JzepZC3">Tinkercad</a></li>
-    <li><a href="www.twitch.tv/santiago_ramirez10">Twitch</a></li>
+    <li><a href="https://twitch.tv/santiago_ramirez10">Twitch</a></li>
 </ul>
 
 ---
