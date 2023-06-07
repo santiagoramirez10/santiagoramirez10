@@ -30,9 +30,9 @@
     <li><strong>Curso desarrollador fullstack nivel junior, IME Escuelas Técnicas</strong><br>Diciembre 2022</li>
     <li><strong>Curso ciencia e ingeniería de datos, Fundación Universitaria del Área Andina</strong><br>Diciembre 2022</li>
     <li><strong>Diplomado ciencia de datos con Python: recolección, almacenamiento y proceso, Fundación Universitaria del Área Andina</strong><br>Diciembre 2022</li>
-    <li><strong>Curso energía solar fotovoltaica, AIE Universidad de Antioquia</strong><br>Marzo 2022</li>
-    <li><strong>Curso procesos de soporte técnico para el mantenimiento de equipos de cómputo, SENA</strong><br>Marzo 2022</li>
     <li><strong>Curso instalaciones eléctricas domiciliarias, SENA</strong><br>Abril 2022</li>
+    <li><strong>Curso procesos de soporte técnico para el mantenimiento de equipos de cómputo, SENA</strong><br>Marzo 2022</li>
+    <li><strong>Curso energía solar fotovoltaica, AIE Universidad de Antioquia</strong><br>Marzo 2022</li>
     <li><strong>Curso desarrollador de videojuegos nivel 1, Ubicua Technology</strong><br>Febrero 2022</li>
 </ul>
 
