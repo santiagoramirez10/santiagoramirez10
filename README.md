@@ -47,17 +47,21 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
     </div>
 </div>
 
@@ -66,13 +70,13 @@
 <h2>📲🌎Redes sociales y contacto</h2>
 
 <ul>
-    <li><a href="https://linkedin.com/in/santiagoramirezperez">Linkedin</a></li>
-    <li><a href="https://wa.me/573503783575">Whatsapp</a></li>
-    <li><a href="https://www.facebook.com/s.ramirezp10">Facebook</a></li>
-    <li><a href="https://www.instagram.com/s_ramirezp10/">Instagram</a></li>
-    <li><a href="https://twitter.com/s_ramirezp10">Twitter</a></li>
-    <li><a href="https://www.tinkercad.com/users/hfk6JzepZC3">Tinkercad</a></li>
-    <li><a href="https://www.twitch.tv/s_ramirezp10">Twitch</a></li>
+    <li><a href="https://linkedin.com/in/santiagoramirezperez" target="_blank">Linkedin</a></li>
+    <li><a href="https://wa.me/573503783575" target="_blank">Whatsapp</a></li>
+    <li><a href="https://www.facebook.com/s.ramirezp10" target="_blank">Facebook</a></li>
+    <li><a href="https://www.instagram.com/s_ramirezp10/" target="_blank">Instagram</a></li>
+    <li><a href="https://twitter.com/s_ramirezp10" target="_blank">Twitter</a></li>
+    <li><a href="https://www.tinkercad.com/users/hfk6JzepZC3" target="_blank">Tinkercad</a></li>
+    <li><a href="https://www.twitch.tv/s_ramirezp10" target="_blank">Twitch</a></li>
 </ul>
 
 ---
