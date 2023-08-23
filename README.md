@@ -23,11 +23,13 @@
 
 <h2>📝Educación</h2>
 <ul>
-    <li><strong>Ingeniería eléctrica, Universidad de Antioquia</strong><br>Actual</li>
-    <li><strong>Curso desarrollador backend, Universidad EAFIT</strong><br>Actual</li>
+    <li><strong>Ingeniería eléctrica, Universidad de Antioquia</strong><br>En curso</li>
+    <li><strong>Curso Angular nivel 1, Infocenter</strong><br>En curso</li>
+    <li><strong>Curso desarrollador fullstack nivel 2, IME Escuelas Técnicas</strong><br>En curso</li>
+    <li><strong>Curso desarrollador backend, Universidad EAFIT</strong><br>Julio 2023</li>
     <li><strong>Curso inteligencia artificial para las ingenierias y ciencias, Universidad de Antioquia</strong><br>Mayo 2023</li>
     <li><strong>Curso desarrollador frontend, Universidad EAFIT</strong><br>Abril 2023</li>
-    <li><strong>Curso desarrollador fullstack nivel junior, IME Escuelas Técnicas</strong><br>Diciembre 2022</li>
+    <li><strong>Curso desarrollador fullstack nivel 1, IME Escuelas Técnicas</strong><br>Diciembre 2022</li>
     <li><strong>Curso ciencia e ingeniería de datos, Fundación Universitaria del Área Andina</strong><br>Diciembre 2022</li>
     <li><strong>Diplomado ciencia de datos con Python: recolección, almacenamiento y proceso, Fundación Universitaria del Área Andina</strong><br>Diciembre 2022</li>
     <li><strong>Curso instalaciones eléctricas domiciliarias, SENA</strong><br>Abril 2022</li>
