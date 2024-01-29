@@ -82,6 +82,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="https://www.facebook.com/s.ramirezp10" target="_blank">
@@ -90,6 +91,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="https://www.instagram.com/s_ramirezp10/" target="_blank">
@@ -98,6 +100,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="https://www.tiktok.com/@s.ramirezp10" target="_blank">
@@ -106,6 +109,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="https://twitter.com/s_ramirezp10" target="_blank">
@@ -114,6 +118,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="https://www.google.com/maps/place/Medellín,Colombia" target="_blank">
@@ -122,6 +127,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="https://api.whatsapp.com/send?phone=573225562660" target="_blank">
@@ -130,6 +136,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="mailto:santiagoramirezperez96@gmail.com" target="_blank">
@@ -138,6 +145,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="https://github.com/santiagoramirez10" target="_blank">
@@ -146,6 +154,7 @@
                 </a>
             </div>
         </li>
+        <br>
         <li>          
             <div>
             <a href="https://www.youtube.com/@s_ramirezp10" target="_blank">
