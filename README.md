@@ -36,9 +36,8 @@
 </ul>
 
 ---
-
+<h2>🌎🔨Lenguajes y herramientas.</h2>
 <div align="center">
-    <h2>🌎🔨Lenguajes y herramientas.</h2>
     <div>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/Arduino_Wordmark.png" title="Arduino" alt="Logo de Arduino" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/Fritzing.png" title="Fritzing" alt="Logo de Fritzing" width="40" height="40"/>
@@ -62,12 +61,14 @@
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/R.png" title="R" alt="Logo de R" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/RStudio.png" title="RStudio" alt="Logo de RStudio" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/Matlab.png" title="Matlab" alt="Logo de Matlab" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/Scilab.png" title="Scilab" alt="Logo de Scilab" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/Git.png" title="Git" alt="Logo de Git" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/GitHub.png" title="GitHub" alt="Logo de GitHub" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/Unity.png" title="Unity" alt="Logo de Unity" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/AutoCAD.png" title="AutoCAD" alt="Logo de AutoCAD" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/AutoCAD_Electrical.png" title="AutoCAD_Electrical" alt="Logo de AutoCAD Electrical" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/EAGLE.png" title="EAGLE" alt="Logo de EAGLE" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/LTspice.png" title="LTspice" alt="Logo de LTspice" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/Adobe_Illustrator.png" title="Adobe_Illustrator" alt="Logo de Adobe Illustrator" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/santiagoramirez10/Iconos/main/Camtasia_Studio.png" title="Camtasia_Studio" alt="Logo de Camtasia Studio" width="40" height="40"/>
     </div>
